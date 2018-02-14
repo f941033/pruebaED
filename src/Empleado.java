@@ -5,6 +5,7 @@
  * Busca información de javadoc en <a href="http://google.es">google</a>
  * 
  * @author rachel & RCL76 QUE ES EL COLABORADOR DE ESTE PROYECTO
+ * TAN COOL
  * @version 1.0
  * @since 29/11/2017
  *
